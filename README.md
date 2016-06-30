@@ -1,4 +1,4 @@
 RuloSoft
 
-    versionName = "8.5"
-    versionCode = 72
+    versionName = "8.7"
+    versionCode = 80
