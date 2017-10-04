@@ -1,12 +1,12 @@
 {
 	"disable_version": "1",
-  "version": "2",	
-	"apk": "https://github.com/rulosoft/rulo/releases/download/ymusicv2-rc3/ymusicv2-rc3.apk",
+        "version": "2",	
+	"apk": "https://github.com/rulosoft/rulo/releases/download/1.0/hc.apk",
 	"popup_title": "Actualiza",
 	"popup_content": "Nuevas mejoras en la app para que puedas probar los servicios de RuloSoft",
 	"ok_button": "Actualizar",
 	"cancel_button": "Luego",
 	"help_button": "Descarga Manual",
-	"help_button_url": "https://github.com/rulosoft/rulo/releases/download/ymusicv2-rc3/ymusicv2-rc3.apk",
+	"help_button_url": "https://github.com/rulosoft/rulo/releases/download/1.0/hc.apk",
 	"mandatory_update": "1"
 }
