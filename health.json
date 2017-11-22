@@ -1,0 +1,12 @@
+{
+	"disable_version": "3",
+        "version": "4",	
+	"apk": "https://github.com/rulosoft/rulo/releases/download/healthcheck/hc.apk",
+	"popup_title": "Actualiza y prueba",
+	"popup_content": "Nuevas mejoras en la app para que puedas probar los servicios de RuloSoft. Instala la actualizacion y vuelve a ejecutarla para comprobar que todo funcione correctamente en tu red",
+	"ok_button": "Actualizar",
+	"cancel_button": "Luego",
+	"help_button": "Descarga Manual",
+	"help_button_url": "https://github.com/rulosoft/rulo/releases/download/healthcheck/hc.apk",
+	"mandatory_update": "1"
+}
